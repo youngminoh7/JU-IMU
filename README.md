@@ -1,4 +1,5 @@
 # Jeonju University IMU (JU-IMU) Dataset
+![](./figure/Figure1_Location_Sensors.png)
 JU-IMU is an open dataset for movement classification of hemiparetic stroke patients (Stroke group) and non-disabled individuals (ND group) with inertial measurement units (IMU) sensor data.
 The dataset consists of two different tasks or sets of movments - the range of motion (ROM) task and the activities of daily living (ADL) task.
 The ROM task consists of 14 different movement that are often used to evaluate motor functions of patients with movement disabilities, such as elbow flexion, scaption, and shoulder rotation.
