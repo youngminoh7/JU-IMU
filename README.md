@@ -52,7 +52,7 @@ TBA
 If you use the dataset for your work, please cite the following: 
 
 ### License
-TBA
+[CC BY-NC-ND 4.0 DEED](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 
 
