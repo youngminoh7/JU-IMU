@@ -46,8 +46,8 @@ where "accx" stands for x-axis of accelerometer, "gyry" for y-axis of gyrometer,
 Each row contains sensor values of one time point. The number of rows vary on the length of a segment.
 
 ### Download Data
-You can download the ROM task data from this [link](https://drive.google.com/drive/folders/1-4axe1hpy6C34KveSywBWDqgDbRT5z9m?usp=sharing).  
-You can download the ADL task data from this [link](https://drive.google.com/drive/folders/1-6ibKHCkdEMnUaM82GnBciCxYO0kxNUB?usp=sharing).
+You can download the ROM task data from this [link](https://drive.google.com/file/d/1eEyhzYpXS73MEPi7bzxILQs-J1V8wg0J/view?usp=sharing).  
+You can download the ADL task data from this [link](https://drive.google.com/file/d/13YmrwgX581fO3z2EC2dRCM8hFbzD7Z2R/view?usp=sharing).
 
 ### Citation
 If you use the dataset for your work, please cite the following:
